@@ -1,15 +1,5 @@
 # Shift Left AI
 
-**Design-first hallucination management for enterprise AI systems.**
-
-Just as DevSecOps transformed security from a gate at the end of the pipeline to a principle embedded throughout development, Shift Left AI transforms hallucination management from detection to design.
-
-## The Problem
-
-Current approaches to AI hallucination follow a familiar pattern: deploy first, detect problems later. Even the best detection frameworks (like EDFL) operate at runtime, after the system has already been built. This is where security was twenty years ago.
-
-The latest benchmarks tell the story. Flagship reasoning models from every major provider exceed 10% hallucination rates on straightforward factual tasks. Guardian agents can reduce this to under 1%, but only by catching errors after generation. We are building increasingly sophisticated ambulances at the bottom of the cliff.
-
 ## The Shift Left Approach
 
 This toolkit extends the EDFL framework (Chlon et al., 2025) with a design-first philosophy:
