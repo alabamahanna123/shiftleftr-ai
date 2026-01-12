@@ -16,11 +16,11 @@ This toolkit extends the EDFL framework (Chlon et al., 2025) with a design-first
 
 ### Five Maturity Levels
 
-1. **Hope** — Deploy and trust outputs (where most organisations start)
-2. **Detection** — Flag hallucinations after generation (Vectara HHEM, SelfCheckGPT)
-3. **Correction** — Guardian agents fix errors in real-time (Vectara VHC)
-4. **Prediction** — Assess risk before generation (EDFL/HallBayes)
-5. **Design** — Embed hallucination management in system architecture from the start
+1. **Hope** - Deploy and trust outputs (where most organisations start)
+2. **Detection** - Flag hallucinations after generation (Vectara HHEM, SelfCheckGPT)
+3. **Correction** - Guardian agents fix errors in real-time (Vectara VHC)
+4. **Prediction** - Assess risk before generation (EDFL/HallBayes)
+5. **Design** - Embed hallucination management in system architecture from the start
 
 Shift Left AI focuses on Level 5, while remaining compatible with Levels 3 and 4.
 
