@@ -231,6 +231,4 @@ This is an early-stage project. Contributions welcome, particularly:
 - Real-world validation datasets
 - Documentation and examples
 
-## Attribution
 
-Developed by Lee Griffiths, extending research by Hassana Labs.
