@@ -195,30 +195,6 @@ Publish as `shiftleft-ai` with `hallbayes` as optional dependency
 **Option C: Feature merge**
 Cherry-pick specific features (graduated responses, chain analysis) into core HallBayes
 
----
-
-## Why This Matters
-
-Your Vectara benchmarks show flagship models exceeding 10% hallucination rates. Guardian agents can reduce this to under 1%, but only by catching errors after generation.
-
-The shift-left approach means:
-- Catching infeasible tasks before wasting compute
-- Giving users confidence bands instead of binary gates
-- Tracking reliability across complex workflows
-- Building governance dashboards for enterprise deployment
-
-This is the difference between "ambulance at the bottom of the cliff" and "fence at the top."
-
----
-
-## About Me
-
-Lee Griffiths, Director of Strategic Partnerships at Domo Europe. I'm working on AI agent governance dashboards and commercialising AI solutions for enterprise. Your EDFL paper directly addresses problems I'm seeing in production deployments where customers need more than "answer or refuse."
-
-Happy to discuss further or submit a PR if you're interested.
-
----
-
 ## Links
 
 - HallBayes repo: https://github.com/leochlon/hallbayes
